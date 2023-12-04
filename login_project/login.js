@@ -1,3 +1,4 @@
+// 81424 Filip Lysiak
 // Mapowanie odpowiednich obiektów HTML - pobranie danych: furmularz logowania, przycisku oraz komunikatu błędnego logowania
 const loginForm = document.getElementById("login-form");
 const loginButton = document.getElementById("login-form-submit");
